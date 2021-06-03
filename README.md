@@ -1,2 +1,2 @@
-# weather
-https://romantic-hodgkin-a692e4.netlify.app/
+# weather-application
+https://okweather.netlify.app
